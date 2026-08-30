@@ -1,0 +1,5 @@
+Documentation/
+src\Notebooks\__pycache__/
+venv/
+*.ipynb_checkpoints
+data/raw/
