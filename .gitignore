@@ -2,4 +2,8 @@ Documentation/
 src\Notebooks\__pycache__/
 venv/
 *.ipynb_checkpoints
-data/raw/
+data/
+database/
+*.db
+*.sqlite
+*.sqlite3
