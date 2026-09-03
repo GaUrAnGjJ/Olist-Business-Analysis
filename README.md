@@ -193,11 +193,8 @@ E-Commerce Analysis/
 ├── database/
 │   └── olist_ecommerce.db                       # Relational SQLite Database & Views
 ├── Documentation/
+│   ├── architecture/                            # DB Architecture,  
 │   ├── Business_Questions/
-│   │   ├── executive_business_eda_summary.md    # Master Executive Matrix & Summary
-│   │   ├── q1_revenue_drivers.md                # Q1 Documentation Report
-│   │   ├── ...                                  # Q2 - Q8 Reports
-│   │   └── q9_future_revenue_range.md           # Q9 Forecast Report
 │   ├── eda/                                     # General EDA Reports
 │   └── forecasting/                             # Time-Series Forecasting Reports
 ├── images/
